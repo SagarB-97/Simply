@@ -17,4 +17,5 @@ public class MainActivity extends AppCompatActivity {
         wv = (WebView)findViewById(R.id.webv);
         wv.loadUrl("http://slashdot.org/");
     }
+
 }
